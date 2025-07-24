@@ -9,7 +9,7 @@
 
 A feature-rich, terminal-based Pokedex application written in Python. It uses the PokéAPI to fetch detailed data for any Pokémon and displays it in a beautifully formatted, colorful, and interactive interface.
 
-*// ![Pokedex Demo GIF](assets/pokedex_demo.gif) //*
+*// ![Pokedex Demo](assets/2.JPG) //*
 
 ---
 
