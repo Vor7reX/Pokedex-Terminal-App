@@ -5,13 +5,14 @@
  
   <br>
   <img src="assets/logo.png" alt="Logo" width="150">
-
+    <br>
+A feature-rich, terminal-based Pokedex application written in Python. It uses the PokéAPI to fetch detailed data for any Pokémon and displays it in a beautifully formatted, colorful, and interactive interface.
 </div>
 
-A feature-rich, terminal-based Pokedex application written in Python. It uses the PokéAPI to fetch detailed data for any Pokémon and displays it in a beautifully formatted, colorful, and interactive interface.
+
 
 *// ![Pokedex Demo](assets/2.JPG) //*
-
+*// ![Pokedex Demo](assets/1.JPG) //*
 ---
 
 ## ✨ Features
