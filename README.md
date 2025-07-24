@@ -1,10 +1,11 @@
 # Pokedex Terminal App  Pokédex
-
-<div align="center">
-  
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<div align="center">
 
  
+  <br>
+  <img src="assets/logo.png" alt="Logo" width="150">
+
 </div>
 
 A feature-rich, terminal-based Pokedex application written in Python. It uses the PokéAPI to fetch detailed data for any Pokémon and displays it in a beautifully formatted, colorful, and interactive interface.
